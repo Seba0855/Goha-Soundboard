@@ -23,6 +23,6 @@ By uruchomić projekt na swoim komputerze, należy go pobrać, a następnie otwo
 Cały etap budowania aplikacji powininen zostać przeprowadzony automatycznie przez IDE. Po wybudowaniu możemy uruchomić aplikację na wbudowanym emulatorze androida.
 
 ## Obecność w Play Store, statystyki i geneza
-Aplikacja od czerwca 2019 *nie jest* już obecna w sklepie play. Projekt soundboardów był projektem hobbystycznym, stworzonym dla fanów Gohy, by umożliwić dzielenie się zabawnymi i słynnymi tekstami.
+Aplikacja od czerwca 2019 *nie jest* już obecna w sklepie play. Projekt soundboardów był projektem hobbystycznym, stworzonym dla fanów Gohy, by umożliwić dzielenie się zabawnymi i słynnymi tekstami. Goha Soundboard był jedną z łącznie 14 aplikacji stworzonych w ramach tego projektu, jednak ta aplikacja odniosła ze wszystkich największy sukces i została najlepiej przyjęta przez użytkowników.
 
-###### Aplikację pobrano ponad 150 000 razy oraz miała ona około miliona wyświetleń. Ocena w sklepie play wynosiła ponad 4,5 gwiazdki.
+##### Aplikację pobrano ponad 150 000 razy oraz miała ona około miliona wyświetleń. Ocena w sklepie play wynosiła ponad 4,5 gwiazdki.
