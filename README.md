@@ -10,7 +10,7 @@ Uwaga, aplikacja zawiera treści wulgarne.
 
 💬 Dźwiękami można dzielić się przez Messengera, klikając przycisk z logo Messengera odpowiadający danemu dźwiękowi.
 
-⏰ W aplikacji jest również zaimplementowna funkcja ustawiania danego dźwięku jako dźwięk powiadomienia lub dźwięk budzika.
+⏰ W aplikacji jest również zaimplementowna funkcja ustawiania danego dźwięku jako dźwięk powiadomienia lub dźwięk budzika. W celu użycia tej funkcji należy przytrzymać przycisk odpowiadający danemu dźwiękowi i wybrać interesującą nas opcję.
 
 ## Zrzuty ekranu
 ### Przykładowe zrzuty ekranu z aplikacji dostępnę są [pod tym linkiem.](https://imgur.com/a/QpD4nSf)
