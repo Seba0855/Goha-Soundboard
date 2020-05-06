@@ -15,7 +15,12 @@ Uwaga, aplikacja zawiera treści wulgarne.
 ## Zrzuty ekranu
 ### Przykładowe zrzuty ekranu z aplikacji dostępnę są [pod tym linkiem.](https://imgur.com/a/QpD4nSf)
 
+## Architektura
+Aplikacja została stworzona na urządzenia z systemem Android. 
 
+Najstarsza wersja systemu, na której można uruchomić aplikację, to Ice Cream Sandwich 4.0.4 (API 15).
+
+Najlepiej współpracuje z Marshmallow 6.0 (API 23).
 
 ## Uruchomienie projektu
 By uruchomić projekt na swoim komputerze, należy go pobrać, a następnie otworzyć za pomocą Android Studio. 
