@@ -1,0 +1,28 @@
+# Goha Soundboard - Android 
+##### Data utworzenia projektu: *2017-09-19*
+
+Aplikacja stworzona w celu dzielenia się słynnymi tekstami znanej streamerki - Gohy.
+
+Uwaga, aplikacja zawiera treści wulgarne.
+
+## Działanie i funkcje aplikacji
+🎵 Aplikacja odtworzy dźwięk poprzez wciśnięcie wybranego przycisku.
+
+💬 Dźwiękami można dzielić się przez Messengera, klikając przycisk z logo Messengera odpowiadający danemu dźwiękowi.
+
+⏰ W aplikacji jest również zaimplementowna funkcja ustawiania danego dźwięku jako dźwięk powiadomienia lub dźwięk budzika.
+
+## Zrzuty ekranu
+### Przykładowe zrzuty ekranu z aplikacji dostępnę są [pod tym linkiem.](https://imgur.com/a/QpD4nSf)
+
+
+
+## Uruchomienie projektu
+By uruchomić projekt na swoim komputerze, należy go pobrać, a następnie otworzyć za pomocą Android Studio. 
+
+Cały etap budowania aplikacji powininen zostać przeprowadzony automatycznie przez IDE. Po wybudowaniu możemy uruchomić aplikację na wbudowanym emulatorze androida.
+
+## Obecność w Play Store, statystyki i geneza
+Aplikacja od czerwca 2019 *nie jest* już obecna w sklepie play. Projekt soundboardów był projektem hobbystycznym, stworzonym dla fanów Gohy, by umożliwić dzielenie się zabawnymi i słynnymi tekstami.
+
+###### Aplikację pobrano ponad 150 000 razy oraz miała ona około miliona wyświetleń. Ocena w sklepie play wynosiła ponad 4,5 gwiazdki.
