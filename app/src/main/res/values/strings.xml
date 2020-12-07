@@ -1,7 +1,5 @@
 <resources>
     <string name="app_name">Goha Soundboard</string>
-    <string name="banner">ca-app-pub-3913376764508228/8923404925</string>
-    <string name="facebook_app_id">1876809922635561</string>
     <string name="notificationSetSuccessful">Ustawiono jako dźwięk powiadomienia.</string>
     <string name="notificationTryAgain">Po nadaniu uprawnienia spróbuj ponownie ustawić dźwięk.</string>
     <string name="alarmSetSuccessful">Ustawiono jako dźwięk dzwonka.</string>
